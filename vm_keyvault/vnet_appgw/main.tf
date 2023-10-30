@@ -14,3 +14,4 @@ resource "azurerm_key_vault" "example" {
 }
 
 # Define the Virtual Machine and grant permissions to the Key Vault
+#test
